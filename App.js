@@ -34,7 +34,7 @@ export default function App() {
       inputs: inputMessage,
     }, {
       headers: {
-        'Authorization': 'Bearer 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',
+        'Authorization': 'API KEY',
         'Content-Type': 'application/json'  
       }
     })
@@ -77,7 +77,7 @@ export default function App() {
       inputs: inputMessage,
     }, {
       headers: {
-        'Authorization': 'Bearer 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',  
+        'Authorization': 'API',  
         'Content-Type': 'application/json' 
       }
     })
